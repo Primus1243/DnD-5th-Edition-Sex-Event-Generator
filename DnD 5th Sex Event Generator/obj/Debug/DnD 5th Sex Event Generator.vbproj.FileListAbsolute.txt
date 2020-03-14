@@ -1,0 +1,11 @@
+C:\Users\Partic\source\repos\DnD 5th Sex Event Generator\bin\Debug\DnD 5th Sex Event Generator.exe.config
+C:\Users\Partic\source\repos\DnD 5th Sex Event Generator\bin\Debug\DnD 5th Sex Event Generator.exe
+C:\Users\Partic\source\repos\DnD 5th Sex Event Generator\bin\Debug\DnD 5th Sex Event Generator.pdb
+C:\Users\Partic\source\repos\DnD 5th Sex Event Generator\bin\Debug\DnD 5th Sex Event Generator.xml
+C:\Users\Partic\source\repos\DnD 5th Sex Event Generator\obj\Debug\DnD 5th Sex Event Generator.vbprojAssemblyReference.cache
+C:\Users\Partic\source\repos\DnD 5th Sex Event Generator\obj\Debug\DnD_5th_Sex_Event_Generator.Form1.resources
+C:\Users\Partic\source\repos\DnD 5th Sex Event Generator\obj\Debug\DnD_5th_Sex_Event_Generator.Resources.resources
+C:\Users\Partic\source\repos\DnD 5th Sex Event Generator\obj\Debug\DnD 5th Sex Event Generator.vbproj.GenerateResource.cache
+C:\Users\Partic\source\repos\DnD 5th Sex Event Generator\obj\Debug\DnD 5th Sex Event Generator.exe
+C:\Users\Partic\source\repos\DnD 5th Sex Event Generator\obj\Debug\DnD 5th Sex Event Generator.xml
+C:\Users\Partic\source\repos\DnD 5th Sex Event Generator\obj\Debug\DnD 5th Sex Event Generator.pdb
